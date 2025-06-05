@@ -39,3 +39,6 @@ A aplicação foi dividida em camadas lógicas com responsabilidades bem definid
 ---
 
 ## 🧩 Diagrama de Classes (UML Simplificado)
+![Diagrama de Classe - Samuel - Trabalho final - Page 1](https://github.com/user-attachments/assets/8bc9ad24-eb47-4ea1-ad55-0ad57c9e312a)
+
+
